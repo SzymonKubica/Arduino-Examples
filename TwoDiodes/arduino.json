@@ -1,0 +1,6 @@
+{
+    "sketch": "twoDiodes.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "programmer": "AVR ISP"
+}
